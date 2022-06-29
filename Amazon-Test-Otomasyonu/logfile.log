@@ -1,0 +1,49 @@
+2022-06-27 00:46:36,930 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:46:44,086 INFO  [Log] select_a_product() PASSED 
+2022-06-27 00:46:51,114 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 00:46:56,089 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 00:47:37,583 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:47:46,752 INFO  [Log] select_a_product() PASSED 
+2022-06-27 00:47:51,733 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 00:47:59,524 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 00:49:13,056 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:51:43,373 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:51:43,710 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HEQF272', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\yildi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51720}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2683650cf1a9312dd75adee3af08c68
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-06-27 00:51:43,739 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HEQF272', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\yildi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51720}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b2683650cf1a9312dd75adee3af08c68
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-06-27 00:51:49,412 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-06-27 00:52:15,255 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:52:21,637 INFO  [Log] select_a_product() PASSED 
+2022-06-27 00:52:26,661 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 00:52:33,263 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 00:53:20,755 INFO  [Log] search_a_product() PASSED 
+2022-06-27 00:53:27,626 INFO  [Log] select_a_product() PASSED 
+2022-06-27 00:53:30,890 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 00:53:36,596 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 11:38:59,228 INFO  [Log] search_a_product() PASSED 
+2022-06-27 11:39:02,997 INFO  [Log] select_a_product() PASSED 
+2022-06-27 11:39:05,671 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 11:39:08,187 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 11:45:10,032 INFO  [Log] search_a_product() PASSED 
+2022-06-27 11:45:14,437 INFO  [Log] select_a_product() PASSED 
+2022-06-27 11:45:15,991 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 11:45:18,579 INFO  [Log] go_to_cart() PASSED 
+2022-06-27 12:29:20,111 INFO  [Log] search_a_product() PASSED 
+2022-06-27 12:29:23,864 INFO  [Log] select_a_product() PASSED 
+2022-06-27 12:29:25,904 INFO  [Log] add_product_to_cart() PASSED 
+2022-06-27 12:29:28,229 INFO  [Log] go_to_cart() PASSED 
